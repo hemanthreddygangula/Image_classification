@@ -1,2 +1,2 @@
-# Mini-project
+# Image Classification
 This project is about the classification of people With/Without Mask through images
